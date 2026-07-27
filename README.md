@@ -38,16 +38,15 @@ The project:
 
 ---
 
-## Example Outputs
+## Outputs
 
-<img width="2970" height="1765" alt="image" src="https://github.com/user-attachments/assets/b861929d-4f15-4ffb-994f-d6231fd31990" />
+<img width="2970" height="1765" alt="image" src="https://github.com/user-attachments/assets/45c11bf5-2f44-4a30-8b44-15731369820f" />
 
-<img width="2970" height="2066" alt="image" src="https://github.com/user-attachments/assets/ae2e1db3-29e0-4cb7-aacb-ac40c7280c7a" />
+<img width="2970" height="2066" alt="image" src="https://github.com/user-attachments/assets/2f413038-2bed-4338-97a9-25940f2f4e53" />
+<img width="3871" height="2126" alt="image" src="https://github.com/user-attachments/assets/13611897-709d-47a0-8c6c-91d3ec851063" />
 
-<img width="4458" height="2367" alt="image" src="https://github.com/user-attachments/assets/d4da47dc-bd8a-4e07-8ffc-47e9e1eff33f" />
 
-<img width="3859" height="1886" alt="image" src="https://github.com/user-attachments/assets/e66fd0db-c851-47f8-bb0a-3a673a41d7f0" />
-
+<img width="4458" height="2366" alt="image" src="https://github.com/user-attachments/assets/86fe67c1-71d1-4f5b-ac0c-f19f264d6210" />
 
 ---
 
