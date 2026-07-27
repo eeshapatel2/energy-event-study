@@ -42,6 +42,12 @@ The project:
 
 <img width="2970" height="1765" alt="image" src="https://github.com/user-attachments/assets/b861929d-4f15-4ffb-994f-d6231fd31990" />
 
+<img width="2970" height="2066" alt="image" src="https://github.com/user-attachments/assets/ae2e1db3-29e0-4cb7-aacb-ac40c7280c7a" />
+
+<img width="4458" height="2367" alt="image" src="https://github.com/user-attachments/assets/d4da47dc-bd8a-4e07-8ffc-47e9e1eff33f" />
+
+<img width="3859" height="1886" alt="image" src="https://github.com/user-attachments/assets/e66fd0db-c851-47f8-bb0a-3a673a41d7f0" />
+
 
 ---
 
