@@ -1,2 +1,2 @@
 # energy-event-study
-Python event study analysing the impact of OPEC decisions, geopolitical shocks and supply disruptions on commodity futures, energy equities and sector ETFs. Measures abnormal returns, volatility changes, event persistence and statistical significance across multiple event windows.
+PPython event-study framework analysing how major energy market events affect commodity futures and energy equities. Uses benchmark-adjusted returns, volatility analysis and statistical testing to identify persistent market reactions across multiple asset classes.
